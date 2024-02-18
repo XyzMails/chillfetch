@@ -28,3 +28,6 @@ just use the command:
 
 # easter eggs??
 there is one find it :D
+
+# funkey pics
+![screenshot1](https://raw.githubusercontent.com/XyzMails/chillfetch/main/pics/screenshot1.png)
