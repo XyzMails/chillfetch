@@ -30,4 +30,5 @@ just use the command:
 there is one find it :D
 
 # funkey pics
+i used the cutefish terminal
 ![screenshot1](https://raw.githubusercontent.com/XyzMails/chillfetch/main/pics/screenshot1.png)
