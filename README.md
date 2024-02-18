@@ -6,6 +6,11 @@ use the command:
 
 ``` ./install.sh ```
 
+oh and you need some python and python packages
+1. you need python (pacman -S python) (probably)
+2. you also need pip! (pacman -S python-pip)
+3. you need colorama (pip install colorama) (probably)
+
 I AM NOT RESPONSIBLE FOR ANY DAMAGES (which probably wont happen)
 just pls dont sue me i am broke
 
